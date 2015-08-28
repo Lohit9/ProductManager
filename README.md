@@ -1,2 +1,2 @@
 # ProductManager
-Product managing app for Shopify 
+Product managing app for Shopify, implementing SDK 
