@@ -1,2 +1,2 @@
 # ProductManager
-Product managing app for Shopify (Mobile-Buy SDK)
+Simple product view manager app using Shopify (Mobile-Buy SDK)
